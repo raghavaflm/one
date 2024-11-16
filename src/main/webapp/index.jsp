@@ -1,8 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-          <title>A page written in english</title>
-          <meta content="text/html; charset=utf-8" />
+<html>
+<head>
+          
 </head>
 <body>
 	<h1 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
